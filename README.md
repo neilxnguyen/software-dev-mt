@@ -2,6 +2,5 @@
 Software Dev Methods and Tools
 Neil Nguyen
 Lab3
-
-Partner: Chad Lewis
+THIS LINE WILL CAUSE A MERGE CONFLICT
 
