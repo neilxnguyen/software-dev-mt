@@ -2,3 +2,5 @@
 Software Dev Methods and Tools
 Neil Nguyen
 Lab3
+
+Partner: Chad Lewi3
