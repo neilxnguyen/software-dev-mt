@@ -2,5 +2,5 @@
 Software Dev Methods and Tools
 Neil Nguyen
 Lab3
-MERGE CONFLICT
+This might cause a merge conflict
 
